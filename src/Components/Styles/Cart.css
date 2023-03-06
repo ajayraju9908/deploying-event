@@ -1,0 +1,19 @@
+.header-section {
+    background-color: aqua;
+    color: #fff;
+    height: 70px;
+    padding: 0 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 0 10px;
+    
+}
+button{
+    color: white;
+}

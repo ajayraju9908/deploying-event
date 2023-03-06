@@ -1,0 +1,16 @@
+
+ 
+  .Con {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #a6c944;
+  }
+
+  .fo{
+    border: 2px solid black;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: #dbaf37;
+  }
